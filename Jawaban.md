@@ -8,7 +8,7 @@ permissionnya menjadi view-only untuk user biasa.
 Jawaban:
 
 <IMG SRC="/Screenshots/WhatsApp Image 2023-06-11 at 7.30.04 PM.jpeg">
-Membuat folder dan file didalamnhya sesuai perintah
+Membuat folder dan file didalamnya sesuai perintah
 
 <IMG SRC="/Screenshots/WhatsApp Image 2023-06-11 at 7.34.45 PM.jpeg">
 Menambahkan isi file dengan nim dan nama
@@ -69,7 +69,7 @@ Hasil setelah menambahkan rule REJECT dan DROP
 Jawaban:
 
 <IMG SRC="/Screenshots/WhatsApp Image 2023-06-11 at 10.32.56 PM.jpeg">
-Menggunakan "crontab -e" untuk mengakses crontab dan melakukan ping otomatis seiap 1 menit
+Menggunakan "crontab -e" untuk mengakses crontab dan melakukan ping otomatis setiap 1 menit
 
 <IMG SRC="/Screenshots/WhatsApp Image 2023-06-11 at 10.36.51 PM.jpeg">
 Bukti sistem melakukan ping setiap 1 menit lewat syslog
