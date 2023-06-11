@@ -24,6 +24,12 @@ default gateway. (petunjuk 192.168.56.x | x adalah nomor absen)
 
 Jawaban:
 
+<IMG SRC="WhatsApp Image 2023-06-11 at 7.55.38 PM">
+Menambahkan ip address untuk ens33 dengan IP 192.168.56.16
+
+<IMG SRC="WhatsApp Image 2023-06-11 at 7.58.32 PM">
+Menambahkan default gateway dengan command seperti pada image dan mengeceknya
+
 
 3. Lakukan Instalasi Webmin lalu buatlah user bernama nama anda, lalu
 buat group Adsis_(kelas masing-masing) dan masukkan nama anda di
