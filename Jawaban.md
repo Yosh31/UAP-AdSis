@@ -7,6 +7,17 @@ permissionnya menjadi view-only untuk user biasa.
 
 Jawaban:
 
+<IMG SRC="WhatsApp Image 2023-06-11 at 7.30.04 PM">
+Membuat folder dan file didalamnhya sesuai perintah
+
+<IMG SRC="WhatsApp Image 2023-06-11 at 7.34.45 PM">
+Menambahkan isi file dengan nim dan nama
+
+<IMG SRC="WhatsApp Image 2023-06-11 at 7.38.46 PM">
+Mengubah file permission dari user untuk tidak dapat melakukan write
+
+<IMG SRC="WhatsApp Image 2023-06-11 at 7.41.35 PM">
+Bukti bahwa file sudah tidak dapat di"write"
 
 2. Lakukan konfigurasi alamat IP address sementara pada sistem dan
 default gateway. (petunjuk 192.168.56.x | x adalah nomor absen)
